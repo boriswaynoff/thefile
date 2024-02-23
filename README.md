@@ -1,9 +1,9 @@
 # thefile
-Your first task: create a new repository, create a README.nd file and upload another file.
+Your first task: create a new repository, create a README.nd file and upload another File.
 
 You can find a playlist of videos about git by [link](https://www.youtube.com/watch?v=25JUEkGBRrs)
 
-## Front_End Developer stack:
+## Front-end Developer stack:
 *HTML
 ﻿﻿*CSS
 ﻿﻿*JavaScript
